@@ -13,7 +13,7 @@
 ### 🚀 What I'm building
 
 - 🛡️ **SHIELD** — Advanced ML classification platform for real-time text processing. Combines semantic NLP (TF-IDF) with structural metadata and real-time algorithmic explainability (LIME & SHAP) deployed in production.
-- 💻 **CESGA (Supercomputing Center)** — Built an enterprise RAG pipeline on HPC clusters to automate internal testing, workflows, and knowledge retrieval. Integrated with PHP/Laravel backend.
+- 💻 **CESGA (Supercomputing Center)** — Built an enterprise RAG pipeline on HPC clusters to automate internal testing, workflows, and knowledge retrieval.
 - 🤖 **AI-Assisted Workflows** — Configuring AI-powered dev environments (Claude Code, technical prompting) to accelerate product delivery and automate repetitive tasks.
 
 ---
