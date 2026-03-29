@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Nicolás Filloy 👋</h1>
 
-<h3 align="center">AI Security Engineer</h3>
+<h3 align="center">AI Engineer</h3>
 
 <p align="center">
   Computer Science student focused on building at the intersection of Applied AI, Cybersecurity, and HPC.<br>
@@ -71,7 +71,7 @@
 
 ### 📫 Contact
 
-- 💼 **LinkedIn** — [linkedin.com/in/tu-usuario-aqui](https://linkedin.com/in/tu-usuario-aqui)
+- 💼 **LinkedIn** — https://www.linkedin.com/in/nicol%C3%A1s-filloy-montesino-13693936a/
 - ✉️ **Email** — nicofm2004@gmail.com
 - 🌍 **Location** — Galicia, Spain
 
