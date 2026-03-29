@@ -62,7 +62,6 @@
 
 ### 🎯 2026 Goals
 
-- Deploy SHIELD into a production-ready SaaS environment
 - Go deeper into LLM orchestration, agentic systems, and fine-tuning
 - Contribute to open-source AI and automation tools
 - Keep shipping consistently
